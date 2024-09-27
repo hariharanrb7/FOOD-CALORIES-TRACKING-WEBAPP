@@ -115,4 +115,4 @@ This project is licensed under the MIT License.
 
 For questions or feedback, feel free to reach out to the project maintainer:
 
-- **Email**: [hariharan.2023@vitstudent.ac.in](mailto:hariharan.2023@vitstudent.ac.in)
+- **Email**: [hariharanrb777@gmail.co](mailto:hariharanrb777@gmail.com)
